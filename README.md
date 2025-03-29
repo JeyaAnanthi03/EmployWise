@@ -66,8 +66,8 @@ npm start
 ## 🔐 Login Credentials
 ### Default Login:
 
-Email: eve.holt@reqres.in
-Password: cityslicka
+- Email: eve.holt@reqres.in
+- Password: cityslicka
 
 ## 🌟 Component Breakdown
 
